@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj": {}
   },
   "projects": {
@@ -12,6 +13,33 @@
         "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
         "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\obj\\",
+=======
+<<<<<<< HEAD
+    "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+        "projectName": "ProjectFacul",
+        "projectPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+        "packagesPath": "C:\\Users\\varggu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul\\obj\\",
+=======
+    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+        "projectName": "ProjectFacul",
+        "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+        "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\obj\\",
+>>>>>>> c2fe164e25b2b0c95de2a5c7b454ebe4fad063ed
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -320,6 +320,14 @@
         "runtime": {
           "ProjectFacul.dll": {}
         },
+        "resources": {
+          "en-US/ProjectFacul.resources.dll": {
+            "locale": "en-US"
+          },
+          "pt-BR/ProjectFacul.resources.dll": {
+            "locale": "pt-BR"
+          }
+        },
         "compile": {
           "ProjectFacul.dll": {}
         }

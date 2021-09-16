@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Views\Shared\_Layout.cshtml" />
+    <Content Remove="Views\Login\login.cshtml" />
+    <Content Remove="Views\Login\password.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
@@ -13,7 +14,29 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Login\login.cshtml" />
+    <None Include="Views\Login\password.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Resources\Resource.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\Resource.en-US.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Resource.pt-BR.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Resource.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
 
 </Project>

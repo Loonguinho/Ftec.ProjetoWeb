@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using ProjectFacul.Filters;
 
 namespace ProjectFacul
 {
@@ -19,6 +20,11 @@ namespace ProjectFacul
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddMvc(opt =>
+            {
+                opt.Filters.Add(new CustomActionFilter());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
