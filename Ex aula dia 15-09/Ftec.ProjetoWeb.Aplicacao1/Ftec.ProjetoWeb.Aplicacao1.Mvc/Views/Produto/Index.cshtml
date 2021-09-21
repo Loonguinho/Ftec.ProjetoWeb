@@ -1,0 +1,77 @@
+﻿
+@model List<ProdutoModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<h1>Index</h1>
+@Html.ActionLink("Adicionar Novo Produto","formulario","produto")
+
+
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Unidade</th>
+                <th>Quantidade</th>
+                <th>Ação</th>
+            </tr>
+        </thead>
+        <tbody id="corpo">
+            <br />
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.UnidadeMedida</td>
+                    <td id="quantidade@(item.Id)">@item.Quantidade</td>
+                    <td>
+                        <a onclick="Excluir('@item.Id')" href="#">Excluir</a>
+                    </td>
+                </tr>
+            }
+            <input id="pesquisar" type="text" onkeyup="FiltrarProduto()"/>
+        </tbody>
+    </table>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    function Excluir(id) {
+        var url = "/Produto/Excluir";
+        var parametro = { idProduto: id };
+        parametro.remove();
+        $.post(url, parametro, RetornaProcessamento);
+    }
+
+    function RetornaProcessamento(retorno) {
+        var celula = $("#quantidade" + retorno.id);
+        celula.html(retorno.quantidade);
+    }
+
+    function FiltrarProduto() {
+        var conteudo = $("#pesquisar").val();
+        var url = "/Produto/Filtrar";
+        var parametro = { termo: conteudo };
+        $.post(url, parametro, RetornaFiltragem);
+        
+    }
+
+    function RetornaFiltragem(retorno) {
+        
+        var corpoTabela = $("#corpo");
+        var strTabela = "";
+
+        for (var i = 0; i < retorno.lenght; i++) {
+            strTabela = strTabela + "<tr>";
+            strTabela = strTabela + "<td>" + retorno[i].Nome + "</td>";
+            strTabela = strTabela + "</tr>";
+        }
+        corpoTabela.html(strTabela);
+        
+    }
+</script>
