@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using System.Collections.Generic;
 using ProjectFacul.Models;
+using ProjectFacul.Filters;
 
 namespace ProjectFacul.Controllers
 {
@@ -28,6 +29,7 @@ namespace ProjectFacul.Controllers
         }
 
         [Route("/produto/cadastro/{id:int}")]
+        [CustomActionFilter]
         public IActionResult Cadastro(int id)
         {
             List<CategoriaProdutoModel> categorias = MockFactory.MockFactory.GerarListaCategoriaProduto(5);
