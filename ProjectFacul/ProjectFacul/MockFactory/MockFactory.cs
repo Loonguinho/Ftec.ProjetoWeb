@@ -14,11 +14,7 @@ namespace ProjectFacul.MockFactory
             {
                 produtos.Add(new ProdutoModel()
                 {
-                    Id = Guid.NewGuid(),
-                    CategoriaId = Guid.NewGuid(),
-                    Nome = "Nome do produto",
-                    Quantidade = 10,
-                    UnidadeMedida = "PC"
+                   
                 });
             }
 
