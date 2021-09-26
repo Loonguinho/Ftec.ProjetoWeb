@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Views\Login\login.cshtml" />
     <Content Remove="Views\Login\password.cshtml" />
   </ItemGroup>
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+      "projectUniqueName": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
       "projectName": "ProjectFacul",
-      "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+      "projectPath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
       "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\obj\\",
+      "outputPath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,13 +66,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

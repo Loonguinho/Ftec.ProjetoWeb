@@ -155,3 +155,113 @@ C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb\Ftec.ProjetoWeb.GitH
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Praga\GraficsPraga.cshtml.g.cs
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Praga\Index.cshtml.g.cs
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Shared\_LayoutPrincipal.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\appsettings.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.exe
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.deps.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.runtimeconfig.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.runtimeconfig.dev.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ref\ProjectFacul.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\en-US\ProjectFacul.resources.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\pt-BR\ProjectFacul.resources.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.Views.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.Views.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.AssemblyReference.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.Resources.Resource.resources
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.Resources.Resource.en-US.resources
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.Resources.Resource.pt-BR.resources
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.GenerateResource.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.AssemblyInfoInputs.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.AssemblyInfo.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.CoreCompileInputs.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorAssemblyInfo.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorAssemblyInfo.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\en-US\ProjectFacul.resources.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\pt-BR\ProjectFacul.resources.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\staticwebassets\ProjectFacul.StaticWebAssets.Manifest.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\staticwebassets\ProjectFacul.StaticWebAssets.xml
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\scopedcss\bundle\ProjectFacul.styles.css
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.TagHelpers.input.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.TagHelpers.output.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorCoreGenerate.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Cliente\Cadastrar.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Praga\GraficsPraga.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Praga\Index.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Produto\Formulario.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Produto\Index.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Shared\_LayoutPrincipal.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorTargetAssemblyInfo.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorTargetAssemblyInfo.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.Views.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ref\ProjectFacul.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.genruntimeconfig.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.CopyComplete
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\appsettings.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.exe
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.deps.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.runtimeconfig.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.runtimeconfig.dev.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ref\ProjectFacul.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.pdb
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\en-US\ProjectFacul.resources.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\pt-BR\ProjectFacul.resources.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.Views.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\bin\Debug\net5.0\ProjectFacul.Views.pdb
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.AssemblyReference.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.Resources.Resource.resources
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.Resources.Resource.en-US.resources
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.Resources.Resource.pt-BR.resources
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.GenerateResource.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.AssemblyInfoInputs.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.AssemblyInfo.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.CoreCompileInputs.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorAssemblyInfo.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorAssemblyInfo.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\en-US\ProjectFacul.resources.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\pt-BR\ProjectFacul.resources.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\staticwebassets\ProjectFacul.StaticWebAssets.Manifest.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\staticwebassets\ProjectFacul.StaticWebAssets.xml
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\scopedcss\bundle\ProjectFacul.styles.css
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.TagHelpers.input.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.TagHelpers.output.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorCoreGenerate.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Cliente\Cadastrar.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Praga\GraficsPraga.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Praga\Index.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Produto\Formulario.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Produto\Index.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Shared\_LayoutPrincipal.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorTargetAssemblyInfo.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.RazorTargetAssemblyInfo.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.Views.pdb
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ref\ProjectFacul.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.pdb
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.genruntimeconfig.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.CopyComplete
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Shared\login.cshtml.g.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Login\login.cshtml.g.cs

@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b6qbmwa3Y0kP8l9yZoKa/vtUF/i4VMW0AjxaTHIwL9OT99ocH+Uo7O3ApFyQaJjP/8y+NCaLm8OqZVapbTepPA==",
+  "dgSpecHash": "QY0ZEVTMiYShdvxxdxrqst3dgdg1DK7CdN7AQpGAGgMuuw3aquAlVqrE5LcEPkuKh+THw5QxSfxVgUOadZvbHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+  "projectFilePath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
