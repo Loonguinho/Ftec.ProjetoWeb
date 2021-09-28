@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj": {}
+    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj": {
+    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+        "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
         "projectName": "ProjectFacul",
-        "projectPath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+        "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
         "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\obj\\",
+        "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",

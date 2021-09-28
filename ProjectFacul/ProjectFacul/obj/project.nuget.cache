@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nOYThoCvSYI8Ll89cFC+5SmDbBb+Cy3EvSzMgDQG/a5b6TuEiWMdTQzdOakkceG4ESAANtWsPPwMF/oIsfivZA==",
+  "dgSpecHash": "T2U0bDcYUKMfEozD+btmMH0Qo5XDZHckcCgkWHdSapG9Ew5E5+NwzYVluCcUekKyGu6wWswdZC1/Q+Mmz6FROg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+  "projectFilePath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luqueta\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Luqueta\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
