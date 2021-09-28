@@ -6,16 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Views\Login\password.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="wwwroot\template\" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Views\Login\login.cshtml" />
-    <None Include="Views\Login\password.cshtml" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
   </ItemGroup>
 
   <ItemGroup>
