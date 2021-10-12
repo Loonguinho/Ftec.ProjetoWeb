@@ -6,13 +6,13 @@ namespace ProjectFacul.MockFactory
 {
     public class MockFactory
     {
-        public static List<ProdutoModel> GerarListaProdutos(int quantidadeElementos)
+        public static List<FatoresClimaticosModel> GerarListaProdutos(int quantidadeElementos)
         {
-            List<ProdutoModel> produtos = new List<ProdutoModel>();
+            List<FatoresClimaticosModel> produtos = new List<FatoresClimaticosModel>();
 
             for(int i = 0; i < quantidadeElementos; i++)
             {
-                produtos.Add(new ProdutoModel()
+                produtos.Add(new FatoresClimaticosModel()
                 {
                    
                 });
