@@ -7811,6 +7811,7 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  
 }
 
 .bg-secondary {
@@ -11295,13 +11296,15 @@ body {
 }
 
 #layoutAuthentication {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: snow;
 }
 #layoutAuthentication #layoutAuthentication_content {
   min-width: 0;
   flex-grow: 1;
+  background-color: snow;
 }
 #layoutAuthentication #layoutAuthentication_footer {
   min-width: 0;
@@ -11685,4 +11688,18 @@ body {
   width: 20px !important;
   font-size: 0.75rem;
   border-radius: 0.25rem !important;
+}
+
+.idAlertas {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: green;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.60rem;
+    text-align: center;
+    color: white;
 }

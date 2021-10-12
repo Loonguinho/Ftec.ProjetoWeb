@@ -263,3 +263,4 @@ C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ref\ProjectFacul.dll
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.pdb
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.genruntimeconfig.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Home\Home.cshtml.g.cs
