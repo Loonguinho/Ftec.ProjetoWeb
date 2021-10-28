@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjectFacul.Repository/1.0.0": {
+        "dependencies": {
+          "ProjectFacul.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProjectFacul.Repository.dll": {}
+        }
+      },
+      "ProjectFacul.Domain/1.0.0": {
+        "runtime": {
+          "ProjectFacul.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectFacul.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectFacul.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

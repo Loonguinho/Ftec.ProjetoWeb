@@ -75,6 +75,42 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ProjectFacul.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ProjectFacul.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjectFacul.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectFacul.Application.dll": {}
+        }
+      },
+      "ProjectFacul.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ProjectFacul.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectFacul.Domain.dll": {}
+        }
+      },
+      "ProjectFacul.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ProjectFacul.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProjectFacul.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectFacul.Repository.dll": {}
+        }
       }
     }
   },
@@ -185,27 +221,48 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ProjectFacul.Application/1.0.0": {
+      "type": "project",
+      "path": "../ProjectFacul.Application/ProjectFacul.Application.csproj",
+      "msbuildProject": "../ProjectFacul.Application/ProjectFacul.Application.csproj"
+    },
+    "ProjectFacul.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProjectFacul.Domain/ProjectFacul.Domain.csproj",
+      "msbuildProject": "../ProjectFacul.Domain/ProjectFacul.Domain.csproj"
+    },
+    "ProjectFacul.Repository/1.0.0": {
+      "type": "project",
+      "path": "../ProjectFacul.Repository/ProjectFacul.Repository.csproj",
+      "msbuildProject": "../ProjectFacul.Repository/ProjectFacul.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "ProjectFacul.Application >= 1.0.0",
+      "ProjectFacul.Repository >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luqueta\\.nuget\\packages\\": {}
+    "C:\\Users\\varggu\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.ProjetoWeb.Api\\ProjectFacul.ProjetoWeb.Api.csproj",
+      "projectUniqueName": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.ProjetoWeb.Api\\ProjectFacul.ProjetoWeb.Api.csproj",
       "projectName": "ProjectFacul.ProjetoWeb.Api",
-      "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.ProjetoWeb.Api\\ProjectFacul.ProjetoWeb.Api.csproj",
-      "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.ProjetoWeb.Api\\obj\\",
+      "projectPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.ProjetoWeb.Api\\ProjectFacul.ProjetoWeb.Api.csproj",
+      "packagesPath": "C:\\Users\\varggu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.ProjetoWeb.Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\varggu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -218,7 +275,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj": {
+              "projectPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj"
+            },
+            "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj": {
+              "projectPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

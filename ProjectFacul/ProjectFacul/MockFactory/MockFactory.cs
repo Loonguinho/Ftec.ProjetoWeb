@@ -21,20 +21,20 @@ namespace ProjectFacul.MockFactory
             return produtos;
         }
 
-        public static List<CategoriaProdutoModel> GerarListaCategoriaProduto(int quantidadeElementos)
-        {
-            List<CategoriaProdutoModel> categorias = new List<CategoriaProdutoModel>();
+        //public static List<CategoriaProdutoModel> GerarListaCategoriaProduto(int quantidadeElementos)
+        //{
+        //    List<CategoriaProdutoModel> categorias = new List<CategoriaProdutoModel>();
 
-            for(int i = 0; i < quantidadeElementos; i++)
-            {
-                categorias.Add(new CategoriaProdutoModel()
-                {
-                    Descricao = "Descricao categoria",
-                    Id = Guid.NewGuid()
-                });
-            }
+        //    for(int i = 0; i < quantidadeElementos; i++)
+        //    {
+        //        categorias.Add(new CategoriaProdutoModel()
+        //        {
+        //            Descricao = "Descricao categoria",
+        //            Id = Guid.NewGuid()
+        //        });
+        //    }
 
-            return categorias;
-        }
+        //    return categorias;
+        //}
     }
 }
