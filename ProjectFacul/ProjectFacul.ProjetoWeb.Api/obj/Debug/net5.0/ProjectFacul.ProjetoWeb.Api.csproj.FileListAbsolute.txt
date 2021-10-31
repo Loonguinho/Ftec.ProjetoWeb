@@ -62,3 +62,9 @@ C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\Project
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.pdb
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.pdb
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.AssemblyReference.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Application.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Application.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.pdb
