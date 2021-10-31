@@ -22,7 +22,7 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
             var rng = new Random();
             var fatoresClimaticos = new FatoresClimaticos()
             {
-                id = Guid.NewGuid(),
+                FatoresId = Guid.NewGuid(),
                 Data = DateTime.Now,
                 Temperatura = rng.Next(-20, 55),
                 IndicePluviometrico = "Chuva",
@@ -35,13 +35,13 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] FatoresClimaticos fatoresCli)
         {
-            return Ok(fatoresCli.id);
+            return Ok(fatoresCli.FatoresId);
         }
 
         [HttpPut("{id}")]
         public IActionResult Put(Guid id, [FromBody] FatoresClimaticos fatoresCli)
         {
-            return Ok(fatoresCli.id);
+            return Ok(fatoresCli.FatoresId);
         }
 
         [HttpDelete("{id}")]

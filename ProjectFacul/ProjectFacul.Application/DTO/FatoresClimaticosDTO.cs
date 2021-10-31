@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProjectFacul.ProjetoWeb.Api.Model
+namespace ProjectFacul.Application.DTO
 {
     public class FatoresClimaticos
     {
@@ -9,5 +9,6 @@ namespace ProjectFacul.ProjetoWeb.Api.Model
         public string Humidade { get; set; }
         public string IndicePluviometrico { get; set; }
         public DateTime Data { get; set; }
+        public Guid Id { get; internal set; }
     }
 }
