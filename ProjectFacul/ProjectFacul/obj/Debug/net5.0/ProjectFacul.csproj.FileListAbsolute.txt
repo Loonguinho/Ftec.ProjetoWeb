@@ -398,3 +398,4 @@ C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\Project
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.Views.pdb
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.CopyComplete
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.genruntimeconfig.cache
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul\obj\Debug\net5.0\ProjectFacul.csproj.AssemblyReference.cache

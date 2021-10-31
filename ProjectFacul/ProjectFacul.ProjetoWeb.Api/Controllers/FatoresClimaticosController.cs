@@ -1,20 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using ProjectFacul.ProjetoWeb.Api.Model;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace ProjectFacul.ProjetoWeb.Api.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class FatoresClimaticosController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
-        {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
-
         private readonly ILogger<FatoresClimaticosController> _logger;
 
         public FatoresClimaticosController(ILogger<FatoresClimaticosController> logger)
@@ -23,16 +17,37 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<FatoresClimaticos> Get()
+        public IActionResult Get()
         {
             var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new FatoresClimaticos
+            var fatoresClimaticos = new FatoresClimaticos()
             {
-                Data = DateTime.Now.AddDays(index),
-                TemperaturaC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
-            })
-            .ToArray();
+                id = Guid.NewGuid(),
+                Data = DateTime.Now,
+                Temperatura = rng.Next(-20, 55),
+                IndicePluviometrico = "Chuva",
+                Humidade = "86%"
+            };
+
+            return Ok(fatoresClimaticos);
+        }
+
+        [HttpPost]
+        public IActionResult Post([FromBody] FatoresClimaticos fatoresCli)
+        {
+            return Ok(fatoresCli.id);
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult Put(Guid id, [FromBody] FatoresClimaticos fatoresCli)
+        {
+            return Ok(fatoresCli.id);
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(Guid id)
+        {
+            return Ok(true);
         }
     }
 }

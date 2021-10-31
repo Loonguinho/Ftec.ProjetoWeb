@@ -1,5 +1,4 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
 
 namespace ProjectFacul.Models
 {
@@ -10,6 +9,6 @@ namespace ProjectFacul.Models
 
         public int Humidade { get; set; }
 
-        public int Chuvas { get; set; }
+        public int IndicePluviometrico { get; set; }
     }
 }
