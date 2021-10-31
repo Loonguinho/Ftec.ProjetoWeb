@@ -10,6 +10,13 @@ namespace ProjectFacul.Application
     public class UsuarioApplication
     {
         private IUsuarioRepository usuarioRepository;
+
+        public UsuarioApplication(IUsuarioRepository usuarioRepository)
+        {
+            this.usuarioRepository = usuarioRepository;
+        }
+
+        
         public UsuarioDTO Selecionar(Guid idUsuario)
         {
             var usuario = usuarioRepository.Selecionar(idUsuario);

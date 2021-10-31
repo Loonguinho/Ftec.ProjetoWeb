@@ -2,7 +2,6 @@ C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\Project
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.Domain\bin\Debug\net5.0\ProjectFacul.Domain.dll
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.Domain\bin\Debug\net5.0\ref\ProjectFacul.Domain.dll
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.Domain\bin\Debug\net5.0\ProjectFacul.Domain.pdb
-C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.Domain\obj\Debug\net5.0\ProjectFacul.Domain.csproj.AssemblyReference.cache
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.Domain\obj\Debug\net5.0\ProjectFacul.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.Domain\obj\Debug\net5.0\ProjectFacul.Domain.AssemblyInfoInputs.cache
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.Domain\obj\Debug\net5.0\ProjectFacul.Domain.AssemblyInfo.cs
