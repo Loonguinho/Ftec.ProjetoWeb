@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ProjectFacul.Models
+namespace ProjectFacul.Application.DTO
 {
-    public class FatoresClimaticosModel
+    public class FatoresClimaticos
     {
         public Guid id { get; set; }
         public int Temperatura { get; set; }
