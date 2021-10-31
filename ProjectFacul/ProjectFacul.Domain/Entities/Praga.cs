@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjectFacul.Domain.Entities
 {
     public class Praga
     {
+        public Guid PragaID { get; set; }
+        public string NomePraga { get; set; }
     }
 }
