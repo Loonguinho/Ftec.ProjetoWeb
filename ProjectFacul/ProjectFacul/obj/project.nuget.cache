@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mt7uG6EwreFIywmkJyodmnKBK29AcFaCsmkAI0EoMemc1gqe0+p9wYbWDWh4K+49qcVoQXcb7N8DVX9aj48yUA==",
+  "dgSpecHash": "N/X+FmFYFrXKLVIUt5mZpIoU/qL+w3Maodg8v3KBtAL+EAh5cvYxdECsGijP5ptrDfEf/kYk0XZuhiH0GpQdUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.csproj",
+  "projectFilePath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luqueta\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Luqueta\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",

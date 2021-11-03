@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectFacul", "ProjectFacul\ProjectFacul.csproj", "{C361F01F-92CE-4187-84DD-56992451E293}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectFacul.Mvc", "ProjectFacul\ProjectFacul.Mvc.csproj", "{C361F01F-92CE-4187-84DD-56992451E293}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectFacul.ProjetoWeb.Api", "ProjectFacul.ProjetoWeb.Api\ProjectFacul.ProjetoWeb.Api.csproj", "{3A3CC2AE-DD38-4AA9-BA89-1AB172E8B1DB}"
 EndProject
@@ -21,11 +21,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExternalServices", "Externa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{C629E588-C833-44B5-A8A0-9A5B690F6B77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectFacul.Application", "ProjectFacul.Application\ProjectFacul.Application.csproj", "{D8E2117E-2482-4FA7-80DF-7D9A70869E7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectFacul.Application", "ProjectFacul.Application\ProjectFacul.Application.csproj", "{D8E2117E-2482-4FA7-80DF-7D9A70869E7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectFacul.Domain", "ProjectFacul.Domain\ProjectFacul.Domain.csproj", "{146187E3-9A68-43CE-AA63-055E1E2C2362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectFacul.Domain", "ProjectFacul.Domain\ProjectFacul.Domain.csproj", "{146187E3-9A68-43CE-AA63-055E1E2C2362}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectFacul.Repository", "ProjectFacul.Repository\ProjectFacul.Repository.csproj", "{A5410314-0E15-4A65-AED2-8A2C5657355D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectFacul.Repository", "ProjectFacul.Repository\ProjectFacul.Repository.csproj", "{A5410314-0E15-4A65-AED2-8A2C5657355D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -13,8 +13,8 @@ namespace ProjectFacul.Controllers
         [HttpGet]
         public IActionResult Index(int id)
         { 
-            APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:51930/api/");
-            List<FatoresClimaticosModel> produtos = clienteHTTP.Get<List<FatoresClimaticosModel>>(@"produto");
+            APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
+            List<FatoresClimaticosModel> produtos = clienteHTTP.Get<List<FatoresClimaticosModel>>(@"FatoresClimaticos");
             return View(produtos);
         }
     }
