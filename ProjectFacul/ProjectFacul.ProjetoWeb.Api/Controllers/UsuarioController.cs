@@ -40,7 +40,7 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
                         Genero = userDTO.Genero,
                         Idade = userDTO.Idade,
                         Nome = userDTO.Nome,
-                        UsuarioID = userDTO.UsuarioID,
+                        Id = userDTO.Id,
                     });
                 }
 
@@ -64,7 +64,7 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
                     Genero = user.Genero,
                     Idade = user.Idade,
                     Nome = user.Nome,
-                    UsuarioID = user.UsuarioID,
+                    Id = user.Id,
                 };
 
                 Guid id = usuarioApplication.Adicionar(usuarioDTO);
@@ -89,7 +89,7 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
                     Genero = user.Genero,
                     Idade = user.Idade,
                     Nome = user.Nome,
-                    UsuarioID = user.UsuarioID,
+                    Id = user.Id,
                 };
 
                 usuarioApplication.Alterar(usuarioDTO);

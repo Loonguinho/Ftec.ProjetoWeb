@@ -1,4 +1,5 @@
 ﻿using ProjectFacul.Application.DTO;
+using ProjectFacul.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,26 +10,29 @@ namespace ProjectFacul.Application.Adapter
 {
     class FatoresClimaticosAdapter
     {
-        public static FatoresClimaticos ParaFatoresClimaticosDTO(FatoresClimaticos fatoresClimaticos)
+        public static FatoresClimaticosDTO ParaFatoresClimaticosDTO(FatoresClimaticos fatorClimatico)
         {
-            return new FatoresClimaticos()
+            return new FatoresClimaticosDTO()
             {
-                Temperatura = fatoresClimaticos.Temperatura,
-                Humidade = fatoresClimaticos.Humidade,
-                IndicePluviometrico = fatoresClimaticos.IndicePluviometrico,
-                Data = fatoresClimaticos.Data,
-                Id = fatoresClimaticos.FatoresId,
+                Id = fatorClimatico.Id,
+                Data = DateTime.Now,
+                Humidade = fatorClimatico.Humidade,
+                IndicePluviometrico = fatorClimatico.IndicePluviometrico,
+                Temperatura = fatorClimatico.Temperatura
+
             };
         }
-        public static FatoresClimaticos ParaUsuarioDominio(FatoresClimaticos fatoresClimaticosDTO)
+
+        public static FatoresClimaticos ParaFatoresClimaticosDominio(FatoresClimaticosDTO fatorClimatico)
         {
             return new FatoresClimaticos()
             {
-                Temperatura = fatoresClimaticosDTO.Temperatura,
-                Humidade = fatoresClimaticosDTO.Humidade,
-                IndicePluviometrico = fatoresClimaticosDTO.IndicePluviometrico,
-                Data = fatoresClimaticosDTO.Data,
-                Id = fatoresClimaticosDTO.FatoresId,
+                Id = fatorClimatico.Id,
+                Data = DateTime.Now,
+                Humidade = fatorClimatico.Humidade,
+                IndicePluviometrico = fatorClimatico.IndicePluviometrico,
+                Temperatura = fatorClimatico.Temperatura
+
             };
         }
     }

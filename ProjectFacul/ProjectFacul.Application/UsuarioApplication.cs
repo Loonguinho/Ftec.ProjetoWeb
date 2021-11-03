@@ -36,7 +36,7 @@ namespace ProjectFacul.Application
             //insere o registro
             Usuario user = UsuarioAdapter.ParaUsuarioDominio(usuarioDto);
             usuarioRepository.Adicionar(user);
-            return user.UsuarioID;
+            return user.Id;
             
         }
 
@@ -52,7 +52,7 @@ namespace ProjectFacul.Application
             //insere o registro
             Usuario user = UsuarioAdapter.ParaUsuarioDominio(usuarioDto);
             usuarioRepository.Adicionar(user);
-            return user.UsuarioID;
+            return user.Id;
         }
 
         public void Deletar(Guid idUsuario)

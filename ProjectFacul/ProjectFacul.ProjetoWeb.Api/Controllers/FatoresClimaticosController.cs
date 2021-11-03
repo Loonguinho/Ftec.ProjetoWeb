@@ -1,7 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using ProjectFacul.Application;
+using ProjectFacul.Application.DTO;
+using ProjectFacul.Domain.Repository;
 using ProjectFacul.ProjetoWeb.Api.Model;
+using ProjectFacul.Repository;
 using System;
+using System.Collections.Generic;
 
 namespace ProjectFacul.ProjetoWeb.Api.Controllers
 {
@@ -9,45 +14,105 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
     [Route("api/[controller]")]
     public class FatoresClimaticosController : ControllerBase
     {
-        private readonly ILogger<FatoresClimaticosController> _logger;
+        //private readonly ILogger<FatoresClimaticosController> _logger;
+        private IFatoresClimaticosRepository fatoresClimaticosRepository;
+        private FatoresClimaticosApplication fatoresClimaticosApplication;
 
-        public FatoresClimaticosController(ILogger<FatoresClimaticosController> logger)
+        public FatoresClimaticosController()
         {
-            _logger = logger;
+            fatoresClimaticosRepository = new FatoresClimaticosRapository();
+            fatoresClimaticosApplication = new FatoresClimaticosApplication(fatoresClimaticosRepository);
         }
 
         [HttpGet]
         public IActionResult Get()
         {
-            var rng = new Random();
-            var fatoresClimaticos = new FatoresClimaticos()
+            var fatoresClimaticos = fatoresClimaticosApplication.SelecionarTodos();
+            List<FatoresClimaticos> fatoresModel = new List<FatoresClimaticos>();
+
+            foreach (var fatorDTO in fatoresClimaticos)
             {
-                FatoresId = Guid.NewGuid(),
-                Data = DateTime.Now,
-                Temperatura = rng.Next(-20, 55),
-                IndicePluviometrico = "Chuva",
-                Humidade = "86%"
-            };
+                fatoresModel.Add(new FatoresClimaticos()
+                {
+                    Id = fatorDTO.Id,
+                    //Humidade = fatorDTO.Humidade,
+                    Temperatura = fatorDTO.Temperatura,
+                    //IndicePluviometrico = fatorDTO.IndicePluviometrico,
+                    Data = fatorDTO.Data,
 
-            return Ok(fatoresClimaticos);
+                });
+            }
+
+            return Ok(fatoresModel);
+
         }
-
         [HttpPost]
-        public IActionResult Post([FromBody] FatoresClimaticos fatoresCli)
+        public IActionResult Post([FromBody] FatoresClimaticos fatores)
         {
-            return Ok(fatoresCli.FatoresId);
+            try
+            {
+                FatoresClimaticosDTO fatoresDTO = new FatoresClimaticosDTO()
+                {
+                    Id = fatores.Id,
+                    Temperatura = fatores.Temperatura,
+                    //Humidade = fatores.Humidade,
+                    //IndicePluviometrico = fatores.IndicePluviometrico,
+                    Data = fatores.Data,
+                };
+
+                Guid id = fatoresClimaticosApplication.Inserir(fatoresDTO);
+
+                return Ok(id);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+
         }
 
         [HttpPut("{id}")]
-        public IActionResult Put(Guid id, [FromBody] FatoresClimaticos fatoresCli)
+        public IActionResult Put(Guid id, [FromBody] FatoresClimaticos fatores)
         {
-            return Ok(fatoresCli.FatoresId);
-        }
+            try
+            {
+                FatoresClimaticosDTO fatoresDTO = new FatoresClimaticosDTO()
+                {
+                    Id = fatores.Id,
+                    Temperatura = fatores.Temperatura,
+                    //Humidade = fatores.Humidade,
+                    //IndicePluviometrico = fatores.IndicePluviometrico,
+                    Data = fatores.Data,
+                };
 
-        [HttpDelete("{id}")]
+                fatoresClimaticosApplication.Alterar(fatoresDTO);
+
+                return Ok(id);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+        }
+            
+            [HttpDelete("{id}")]
         public IActionResult Delete(Guid id)
-        {
-            return Ok(true);
+            {
+                try
+                {
+                    fatoresClimaticosApplication.Excluir(id);
+                    return Ok(true);
+                }
+                catch (Exception ex)
+                {
+                    return BadRequest(ex);
+                }
+
+            }
         }
     }
-}
+
+
+
+
+        

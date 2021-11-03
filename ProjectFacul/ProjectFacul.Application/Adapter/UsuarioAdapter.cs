@@ -14,7 +14,7 @@ namespace ProjectFacul.Application.Adapter
                 Genero = usuario.Genero,
                 Idade = usuario.Idade,
                 Nome = usuario.Nome,
-                UsuarioID = usuario.UsuarioID
+                Id = usuario.Id
             };
         }
         public static Usuario ParaUsuarioDominio(UsuarioDTO usuarioDto)
@@ -25,7 +25,7 @@ namespace ProjectFacul.Application.Adapter
                 Genero = usuarioDto.Genero,
                 Idade = usuarioDto.Idade,
                 Nome = usuarioDto.Nome,
-                UsuarioID = usuarioDto.UsuarioID
+                Id = usuarioDto.Id
             };
         }
     }

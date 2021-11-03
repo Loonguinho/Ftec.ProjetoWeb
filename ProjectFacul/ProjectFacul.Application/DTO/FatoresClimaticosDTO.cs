@@ -2,13 +2,12 @@
 
 namespace ProjectFacul.Application.DTO
 {
-    public class FatoresClimaticos
+    public class FatoresClimaticosDTO
     {
-        public Guid FatoresId { get; set; }
+        public Guid Id { get; set; }
         public int Temperatura { get; set; }
-        public string Humidade { get; set; }
-        public string IndicePluviometrico { get; set; }
+        public int Humidade { get; set; }
+        public int IndicePluviometrico { get; set; }
         public DateTime Data { get; set; }
-        public Guid Id { get; internal set; }
     }
 }
