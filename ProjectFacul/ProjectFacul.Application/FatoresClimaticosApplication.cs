@@ -4,9 +4,6 @@ using ProjectFacul.Domain.Entities;
 using ProjectFacul.Domain.Repository;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjectFacul.Application
 {
@@ -35,8 +32,9 @@ namespace ProjectFacul.Application
             {
                 throw new ApplicationException("Humidade não pode ser igual a 0");
             }
-            //registro
+            //insere o registro
             FatoresClimaticos fatores = FatoresClimaticosAdapter.ParaFatoresClimaticosDominio(fatorClimaticoDTO);
+            fatores.Id = Guid.NewGuid();
             fatoresClimaticosRepository.Adicionar(fatores);
             return fatores.Id;
         }

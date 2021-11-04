@@ -1,10 +1,6 @@
 ﻿using ProjectFacul.Application.DTO;
 using ProjectFacul.Domain.Entities;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjectFacul.Application.Adapter
 {

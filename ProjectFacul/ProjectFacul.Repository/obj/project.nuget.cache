@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xQAQuauU6Szp8iB7+F59E7wuA/ChPHgDdpG/M83o0BjoRt2WuIfBsJobtbVC/fDgSQD7k77/KleVDeMO0xa2Eg==",
+  "dgSpecHash": "c/onOev4kAU6x626/PnLlTJyRqiOLGazRGVKlM7YEpKp7PDiX88hnwKBAAjwWmnW/KdeFZ2cgunpOUEBHBH9LA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj",
+  "projectFilePath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Luqueta\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
-    "C:\\Users\\Luqueta\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    "C:\\Users\\varggu\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\varggu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }

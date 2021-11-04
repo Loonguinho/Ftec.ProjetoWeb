@@ -69,3 +69,4 @@ C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.pdb
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.pdb
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Npgsql.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Npgsql.dll

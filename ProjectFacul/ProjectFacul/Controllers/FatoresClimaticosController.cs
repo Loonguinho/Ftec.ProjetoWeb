@@ -14,7 +14,7 @@ namespace ProjectFacul.Controllers
         public IActionResult Index(int id)
         { 
             APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
-            List<FatoresClimaticosModel> produtos = clienteHTTP.Get<List<FatoresClimaticosModel>>(@"FatoresClimaticos");
+            List<FatoresClimaticosModel> produtos = clienteHTTP.Get<List<FatoresClimaticosModel>>(@"fatoresClimaticos");
             return View(produtos);
         }
     }

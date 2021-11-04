@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using ProjectFacul.Application;
 using ProjectFacul.Application.DTO;
 using ProjectFacul.Domain.Repository;
@@ -20,7 +19,7 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
 
         public FatoresClimaticosController()
         {
-            fatoresClimaticosRepository = new FatoresClimaticosRapository();
+            fatoresClimaticosRepository = new FatoresClimaticosRepository();
             fatoresClimaticosApplication = new FatoresClimaticosApplication(fatoresClimaticosRepository);
         }
 
@@ -49,6 +48,7 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] FatoresClimaticos fatores)
         {
+            //passar um id vazio quando o sor consumir esse endPoint
             try
             {
                 FatoresClimaticosDTO fatoresDTO = new FatoresClimaticosDTO()
