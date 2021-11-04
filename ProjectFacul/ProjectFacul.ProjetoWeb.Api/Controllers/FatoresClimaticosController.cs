@@ -34,9 +34,9 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
                 fatoresModel.Add(new FatoresClimaticos()
                 {
                     Id = fatorDTO.Id,
-                    //Humidade = fatorDTO.Humidade,
+                    Humidade = fatorDTO.Humidade,
                     Temperatura = fatorDTO.Temperatura,
-                    //IndicePluviometrico = fatorDTO.IndicePluviometrico,
+                    IndicePluviometrico = fatorDTO.IndicePluviometrico,
                     Data = fatorDTO.Data,
 
                 });
@@ -55,8 +55,8 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
                 {
                     Id = fatores.Id,
                     Temperatura = fatores.Temperatura,
-                    //Humidade = fatores.Humidade,
-                    //IndicePluviometrico = fatores.IndicePluviometrico,
+                    Humidade = fatores.Humidade,
+                    IndicePluviometrico = fatores.IndicePluviometrico,
                     Data = fatores.Data,
                 };
 
@@ -80,8 +80,8 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
                 {
                     Id = fatores.Id,
                     Temperatura = fatores.Temperatura,
-                    //Humidade = fatores.Humidade,
-                    //IndicePluviometrico = fatores.IndicePluviometrico,
+                    Humidade = fatores.Humidade,
+                    IndicePluviometrico = fatores.IndicePluviometrico,
                     Data = fatores.Data,
                 };
 

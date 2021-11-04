@@ -19,8 +19,8 @@ namespace ProjectFacul.Repository
                 NpgsqlCommand command = new NpgsqlCommand();
                 command.Connection = con;
                 //CRIAR O COMANDO A SER EXECUTADO
-                command.CommandText = "INSERT INTO fatoresclimaticos (Id, Humidade, Temperatura, IndicePluviometrico, Data) " +
-                                      "VALUES(@Id, @Humidade, @Temperatura, @IndicePluviometrico, @Data); ";
+                command.CommandText = "INSERT INTO fatoresclimaticos (id, humidade, temperatura, indicePluviometrico, data) " +
+                                      "VALUES(@id, @humidade, @temperatura, @indicePluviometrico, @data); ";
                 command.Parameters.AddWithValue("id",fatoresClimaticos.Id);
                 command.Parameters.AddWithValue("humidade", fatoresClimaticos.Humidade);
                 command.Parameters.AddWithValue("temperatura", fatoresClimaticos.Temperatura);
@@ -57,7 +57,7 @@ namespace ProjectFacul.Repository
                 NpgsqlCommand command = new NpgsqlCommand();
                 command.Connection = con;
                 //CRIAR O COMANDO A SER EXECUTADO
-                command.CommandText = "SELECT Id, Humidade, Temperatura, IndicePluviometrico, Data FROM fatoresclimaticos;";
+                command.CommandText = "SELECT id, humidade, temperatura, indicePluviometrico, data FROM fatoresclimaticos;";
 
                 //EXECUTAMOS O COMANDO
                 NpgsqlDataReader leitor =  command.ExecuteReader();
