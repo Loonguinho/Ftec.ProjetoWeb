@@ -46,6 +46,7 @@ namespace ProjectFacul.Repository
 
         public List<FatoresClimaticos> ListarTodos()
         {
+            //-------------------Pra aprimorar passar essa string de conexão para a camada de aplicação. --------------------
             string strConnection = "Server=pgsql.jmenzen.com.br;Port=5432;Database=jmenzen2;User Id=jmenzen2;Password=2J2eyWGw;";
             List<FatoresClimaticos> fatoresClimaticas = new List<FatoresClimaticos>();
 
