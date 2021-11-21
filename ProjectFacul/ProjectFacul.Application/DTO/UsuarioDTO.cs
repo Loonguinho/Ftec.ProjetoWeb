@@ -9,5 +9,8 @@ namespace ProjectFacul.Application.DTO
         public int Idade { get; set; }
         public string Genero { get; set; }
         public DateTime DataNascimento { get; set; }
+
+        public string Usuario { get; set; }
+        public string Senha { get; set; }
     }
 }

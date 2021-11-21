@@ -17,9 +17,9 @@ namespace ProjectFacul.Application
         }
 
         
-        public UsuarioDTO Selecionar(Guid idUsuario)
+        public UsuarioDTO Selecionar(string usuario_)
         {
-            var usuario = usuarioRepository.Selecionar(idUsuario);
+            var usuario = usuarioRepository.Selecionar(usuario_);
 
             return UsuarioAdapter.ParaUsuarioDTO(usuario);
         }
@@ -34,7 +34,7 @@ namespace ProjectFacul.Application
             }
 
             //insere o registro
-            Usuario user = UsuarioAdapter.ParaUsuarioDominio(usuarioDto);
+            Usuarios user = UsuarioAdapter.ParaUsuarioDominio(usuarioDto);
             usuarioRepository.Adicionar(user);
             return user.Id;
             
@@ -50,7 +50,7 @@ namespace ProjectFacul.Application
             }
 
             //insere o registro
-            Usuario user = UsuarioAdapter.ParaUsuarioDominio(usuarioDto);
+            Usuarios user = UsuarioAdapter.ParaUsuarioDominio(usuarioDto);
             usuarioRepository.Adicionar(user);
             return user.Id;
         }
@@ -62,7 +62,7 @@ namespace ProjectFacul.Application
 
         public List<UsuarioDTO> SelecionarTodos()
         {
-            List<Usuario> usuarios = usuarioRepository.ListarTodos();
+            List<Usuarios> usuarios = usuarioRepository.ListarTodos();
             List<UsuarioDTO> usuariosDTO = new List<UsuarioDTO>();
 
             foreach (var user in usuarios)
@@ -71,6 +71,20 @@ namespace ProjectFacul.Application
             }
 
             return usuariosDTO;
+        }
+
+        public Usuarios Autenticar(string usuario, string senha)
+        {
+            var usu = this.usuarioRepository.Selecionar(usuario);
+            if(usu != null)
+            {
+                if(usu.Senha == senha)
+                {
+                    return usu;
+                }
+            }
+            throw new ApplicationException("Usuário não encontrado ou senha inválida");
+
         }
 
     }

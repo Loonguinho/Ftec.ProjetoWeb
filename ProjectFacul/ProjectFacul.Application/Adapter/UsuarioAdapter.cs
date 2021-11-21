@@ -6,7 +6,7 @@ namespace ProjectFacul.Application.Adapter
 {
     public class UsuarioAdapter
     {
-        public static UsuarioDTO ParaUsuarioDTO(Usuario usuario)
+        public static UsuarioDTO ParaUsuarioDTO(Usuarios usuario)
         {
             return new UsuarioDTO()
             {
@@ -17,9 +17,9 @@ namespace ProjectFacul.Application.Adapter
                 Id = usuario.Id
             };
         }
-        public static Usuario ParaUsuarioDominio(UsuarioDTO usuarioDto)
+        public static Usuarios ParaUsuarioDominio(UsuarioDTO usuarioDto)
         {
-            return new Usuario()
+            return new Usuarios()
             {
                 DataNascimento = usuarioDto.DataNascimento,
                 Genero = usuarioDto.Genero,

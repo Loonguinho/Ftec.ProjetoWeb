@@ -8,11 +8,18 @@ namespace ProjectFacul.Repository
 {
     public class FatoresClimaticosRepository : IFatoresClimaticosRepository
     {
-        public void Adicionar(FatoresClimaticos fatoresClimaticos)
+        private string conexao;
+
+        public FatoresClimaticosRepository(string conexao)
         {
-            string strConnection = "Server=pgsql.jmenzen.com.br;Port=5432;Database=jmenzen2;User Id=jmenzen2;Password=2J2eyWGw;";
+            this.conexao = conexao;
+        }
+
+        public void Adicionar(FatoresClimaticos fatoresClimaticos, string conexao)
+        {
+            //string strConnection = "Server=pgsql.jmenzen.com.br;Port=5432;Database=jmenzen2;User Id=jmenzen2;Password=2J2eyWGw;";
             //CRIAR UMA CONEXÃO
-            using (NpgsqlConnection con = new NpgsqlConnection(strConnection))
+            using (NpgsqlConnection con = new NpgsqlConnection(conexao))
             {
                 //ABRIR CONEXÃO COM O BD
                 con.Open();
@@ -34,6 +41,11 @@ namespace ProjectFacul.Repository
             //FECHAMOS A CONEXAO
         }
 
+        public void Adicionar(FatoresClimaticos fatoresClimaticos)
+        {
+            throw new NotImplementedException();
+        }
+
         public void Alterar(FatoresClimaticos fatoresClimaticos)
         {
             throw new NotImplementedException();
@@ -47,7 +59,7 @@ namespace ProjectFacul.Repository
         public List<FatoresClimaticos> ListarTodos()
         {
             //-------------------Pra aprimorar passar essa string de conexão para a camada de aplicação. --------------------
-            string strConnection = "Server=pgsql.jmenzen.com.br;Port=5432;Database=jmenzen2;User Id=jmenzen2;Password=2J2eyWGw;";
+            string strConnection = string.Empty;
             List<FatoresClimaticos> fatoresClimaticas = new List<FatoresClimaticos>();
 
             //CRIAR UMA CONEXÃO

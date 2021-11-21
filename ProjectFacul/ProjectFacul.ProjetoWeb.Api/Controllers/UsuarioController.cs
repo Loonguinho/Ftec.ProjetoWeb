@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using ProjectFacul.Application;
 using ProjectFacul.Application.DTO;
 using ProjectFacul.Domain.Repository;
@@ -13,6 +16,13 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
     [ApiController]
     public class UsuarioController : ControllerBase
     {
+        private string strConexao;
+
+        public UsuarioController(IConfiguration configuration)
+        {
+            strConexao = configuration.GetConnectionString("conexao");
+        }
+
         private IUsuarioRepository usuarioRepository;
         private UsuarioApplication usuarioApplication;
         public UsuarioController()
@@ -54,10 +64,19 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
 
 
         [HttpPost]
+        [AllowAnonymous]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public IActionResult Post([FromBody] Usuario user)
         {
             try
             {
+
+                UsuarioRepository usuarioRepository = new UsuarioRepository(strConexao);
+                UsuarioApplication usuarioApplication = new UsuarioApplication(usuarioRepository);
+
+                var usuario = usuarioApplication.Autenticar(UsuarioModel.Usuario, userModel.Senha);
                 UsuarioDTO usuarioDTO = new UsuarioDTO()
                 {
                     DataNascimento = user.DataNascimento,

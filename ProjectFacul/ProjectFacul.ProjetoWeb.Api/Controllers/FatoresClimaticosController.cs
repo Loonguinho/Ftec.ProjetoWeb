@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using ProjectFacul.Application;
 using ProjectFacul.Application.DTO;
 using ProjectFacul.Domain.Repository;
@@ -13,13 +14,13 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
     [Route("api/[controller]")]
     public class FatoresClimaticosController : ControllerBase
     {
-        //private readonly ILogger<FatoresClimaticosController> _logger;
         private IFatoresClimaticosRepository fatoresClimaticosRepository;
         private FatoresClimaticosApplication fatoresClimaticosApplication;
 
-        public FatoresClimaticosController()
+        public FatoresClimaticosController(IConfiguration configuration)
         {
-            fatoresClimaticosRepository = new FatoresClimaticosRepository();
+            string conexao = configuration.GetConnectionString("conexao");
+            fatoresClimaticosRepository = new FatoresClimaticosRepository(conexao);
             fatoresClimaticosApplication = new FatoresClimaticosApplication(fatoresClimaticosRepository);
         }
 

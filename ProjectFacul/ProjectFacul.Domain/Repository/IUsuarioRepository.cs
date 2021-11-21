@@ -6,10 +6,11 @@ namespace ProjectFacul.Domain.Repository
 {
     public interface IUsuarioRepository
     {
-        public List<Usuario> ListarTodos();
-        public Usuario Selecionar(Guid idUsuario);
-        public Usuario Adicionar(Usuario usuario);
-        public Usuario Alterar(Usuario usuario);
-        public Usuario Deletar(Guid idUsuario);
+        public List<Usuarios> ListarTodos();
+        public Usuarios Selecionar(string usuario);
+        public Usuarios Adicionar(Usuarios usuario);
+        public Usuarios Alterar(Usuarios usuario);
+        public Usuarios Deletar(Guid idUsuario);
+        
     }
 }

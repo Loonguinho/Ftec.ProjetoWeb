@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace ProjectFacul.Controllers
 {
-    public class UsuárioController : Controller
+    public class UsuarioController : Controller
     {
         [HttpGet]
         public IActionResult Index()
