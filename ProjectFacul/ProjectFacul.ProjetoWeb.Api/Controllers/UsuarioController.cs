@@ -27,7 +27,7 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
         private UsuarioApplication usuarioApplication;
         public UsuarioController()
         {
-            usuarioRepository = new UsuarioRepository();
+            usuarioRepository = new UsuarioRepository(strConexao);
             usuarioApplication = new UsuarioApplication(usuarioRepository);
         }
 
@@ -76,7 +76,7 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
                 UsuarioRepository usuarioRepository = new UsuarioRepository(strConexao);
                 UsuarioApplication usuarioApplication = new UsuarioApplication(usuarioRepository);
 
-                var usuario = usuarioApplication.Autenticar(UsuarioModel.Usuario, userModel.Senha);
+                var usuario = usuarioApplication.Autenticar(user.Usuario_, user.Senha);
                 UsuarioDTO usuarioDTO = new UsuarioDTO()
                 {
                     DataNascimento = user.DataNascimento,
