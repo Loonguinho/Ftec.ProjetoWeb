@@ -25,6 +25,11 @@ namespace ProjectFacul.Repository
             throw new NotImplementedException();
         }
 
+        public Usuarios Autenticar(string usuario, string senha)
+        {
+            throw new NotImplementedException();
+        }
+
         public Usuarios Deletar(Guid idUsuario)
         {
             throw new NotImplementedException();

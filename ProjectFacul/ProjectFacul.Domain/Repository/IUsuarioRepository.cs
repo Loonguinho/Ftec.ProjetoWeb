@@ -11,6 +11,6 @@ namespace ProjectFacul.Domain.Repository
         public Usuarios Adicionar(Usuarios usuario);
         public Usuarios Alterar(Usuarios usuario);
         public Usuarios Deletar(Guid idUsuario);
-        
+        public Usuarios Autenticar(string usuario, string senha);
     }
 }
