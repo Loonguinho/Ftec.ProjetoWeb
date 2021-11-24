@@ -70,3 +70,10 @@ C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.pdb
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Npgsql.dll
 C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

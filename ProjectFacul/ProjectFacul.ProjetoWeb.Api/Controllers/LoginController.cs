@@ -11,7 +11,8 @@ using System.Linq;
 using System.Threading.Tasks;
 
 
-namespace Ftec.ProjetoWeb.Aplicacao1.Api.Controllers
+
+namespace ProjectFacul.ProjetoWeb.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
