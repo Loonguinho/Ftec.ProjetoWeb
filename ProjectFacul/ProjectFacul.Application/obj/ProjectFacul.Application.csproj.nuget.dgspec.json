@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj": {}
+    "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj": {
+    "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj",
+        "projectUniqueName": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj",
         "projectName": "ProjectFacul.Application",
-        "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj",
-        "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Application\\obj\\",
+        "projectPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Application\\ProjectFacul.Application.csproj",
+        "packagesPath": "C:\\Users\\varggu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\varggu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
-                "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj"
+              "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
+                "projectPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj"
               }
             }
           }
@@ -68,17 +71,20 @@
         }
       }
     },
-    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
+    "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
         "projectName": "ProjectFacul.Domain",
-        "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
-        "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\obj\\",
+        "projectPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
+        "packagesPath": "C:\\Users\\varggu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\varggu\\OneDrive - 2020 Spaces\\Área de Trabalho\\Ftec.ProjetoWeb\\ProjectFacul\\ProjectFacul.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\varggu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

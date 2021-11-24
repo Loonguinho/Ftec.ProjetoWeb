@@ -37,6 +37,7 @@ namespace ProjectFacul.Controllers
                 //se nao estiver autenticado direciona novamente para a tela de login com mensagem de usuario ou senha invalido
                 RedirectToAction("Login");
             }
+            return Ok(usu);
         }
     }
 }

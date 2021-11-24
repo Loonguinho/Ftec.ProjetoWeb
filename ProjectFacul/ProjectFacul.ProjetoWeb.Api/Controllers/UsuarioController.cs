@@ -35,7 +35,6 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
         public IActionResult Get()
         {
             //Agora a camada de controller interage com a camada de aplicação recebendo os dados do serviço e manda pra camada de aplicação.
-
             try
             {
                 var usuarios = usuarioApplication.SelecionarTodos();

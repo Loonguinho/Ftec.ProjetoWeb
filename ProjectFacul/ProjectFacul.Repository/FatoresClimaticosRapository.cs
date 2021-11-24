@@ -59,7 +59,7 @@ namespace ProjectFacul.Repository
         public List<FatoresClimaticos> ListarTodos()
         {
             //-------------------Pra aprimorar passar essa string de conexão para a camada de aplicação. --------------------
-            string strConnection = string.Empty;
+            string strConnection = conexao;
             List<FatoresClimaticos> fatoresClimaticas = new List<FatoresClimaticos>();
 
             //CRIAR UMA CONEXÃO
