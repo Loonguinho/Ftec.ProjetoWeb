@@ -25,11 +25,6 @@ namespace ProjectFacul.Repository
             throw new NotImplementedException();
         }
 
-        public Usuarios Autenticar(string usuario, string senha)
-        {
-            throw new NotImplementedException();
-        }
-
         public Usuarios Deletar(Guid idUsuario)
         {
             throw new NotImplementedException();
@@ -40,23 +35,24 @@ namespace ProjectFacul.Repository
             throw new NotImplementedException();
         }
 
-        public Usuarios Selecionar(string usuario)
+        public Usuarios Autenticar(string usuario)
         {
             Usuarios usu = null;
-            using (NpgsqlConnection con = new NpgsqlConnection())
+            using (NpgsqlConnection con = new NpgsqlConnection(strConexao))
             {
                 //ABRIR CONEXÃO COM O BD
                 con.Open();
                 NpgsqlCommand command = new NpgsqlCommand();
                 command.Connection = con;
                 //CRIAR O COMANDO A SER EXECUTADO
-                command.CommandText = "SELECT usuario, senha FROM public.usuario WHERE usuario=@usuario";
+                command.CommandText = "SELECT usuario, senha FROM public.usuarios WHERE usuario=@usuario";
                 command.Parameters.AddWithValue("usuario", usuario);
                 NpgsqlDataReader leitor = command.ExecuteReader(); 
                 while (leitor.Read())
                 {
                     usu = new Usuarios()
                     {
+                        //Carregar os outros dados
                         Usuario = leitor["usuario"].ToString(),
                         Senha = leitor["senha"].ToString()
                     };

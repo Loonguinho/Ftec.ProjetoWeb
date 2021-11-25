@@ -31,13 +31,12 @@ namespace ProjectFacul.Controllers
             {
                 usu = clienteHTTP.Post<UsuarioModel>(@"Login", usu);
                 //se estiver autenticado direciona para o home, e armazena em um cookie o token de autenticao
-                RedirectToAction("Home", "Home");
+                return RedirectToAction("Home", "Home");
             }
             catch (Exception e){
                 //se nao estiver autenticado direciona novamente para a tela de login com mensagem de usuario ou senha invalido
-                RedirectToAction("Login");
+               return  RedirectToAction("Login");
             }
-            return Ok(usu);
         }
     }
 }

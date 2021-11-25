@@ -19,7 +19,7 @@ namespace ProjectFacul.Application
         
         public UsuarioDTO Selecionar(string usuario_)
         {
-            var usuario = usuarioRepository.Selecionar(usuario_);
+            var usuario = usuarioRepository.Autenticar(usuario_);
 
             return UsuarioAdapter.ParaUsuarioDTO(usuario);
         }
@@ -75,7 +75,7 @@ namespace ProjectFacul.Application
 
         public Usuarios Autenticar(string usuario, string senha)
         {
-            var usu = this.usuarioRepository.Selecionar(usuario);
+            var usu = this.usuarioRepository.Autenticar(usuario);
             if(usu != null)
             {
                 if(usu.Senha == senha)
