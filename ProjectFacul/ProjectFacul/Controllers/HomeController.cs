@@ -3,6 +3,8 @@ using Microsoft.Extensions.Logging;
 using ProjectFacul.Models;
 using System.Diagnostics;
 using Newtonsoft.Json;
+using ProjectFacul.Mvc.Models;
+using System.Collections.Generic;
 
 namespace ProjectFacul.Controllers
 {
@@ -18,6 +20,15 @@ namespace ProjectFacul.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+
+
+        public IActionResult RetornarDadosGraficoTemperatura()
+        {
+            //Consumir o servico que faz a comnsulta da temperatura
+            List<DadosGraficoTemperaturaModel> listaDadosTemperatura = new List<DadosGraficoTemperaturaModel>();
+
+            return Json(listaDadosTemperatura);
         }
 
         public IActionResult Privacy()

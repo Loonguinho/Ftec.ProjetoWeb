@@ -83,7 +83,6 @@ namespace ProjectFacul.Repository
                         Temperatura = Convert.ToInt32(leitor["temperatura"]),
                         Data = Convert.ToDateTime(leitor["data"]),
                         IndicePluviometrico = Convert.ToInt32(leitor["indicePluviometrico"]),
-                        //Praga
                     });
                 }
                 return fatoresClimaticas;

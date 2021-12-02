@@ -44,8 +44,8 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
             }
 
             return Ok(fatoresModel);
-
         }
+
         [HttpPost]
         public IActionResult Post([FromBody] FatoresClimaticos fatores)
         {

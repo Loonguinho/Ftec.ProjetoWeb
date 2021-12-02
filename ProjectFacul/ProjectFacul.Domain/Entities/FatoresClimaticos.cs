@@ -10,11 +10,11 @@ namespace ProjectFacul.Domain.Entities
         public int Temperatura { get; set; }
         public decimal IndicePluviometrico { get; set; }
         public DateTime Data { get; set; }
-        public Praga Praga { get; set; }
+        //public Praga Praga { get; set; }
 
         public FatoresClimaticos()
         {
-            Praga = new Praga();
+            //Praga = new Praga();
             Id = Guid.NewGuid();
         }
     }

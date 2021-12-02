@@ -17,9 +17,5 @@ namespace ProjectFacul.Controllers
             }
         }
 
-        //public IActionResult Cadastrar()
-        //{
-        //    return View();
-        //}
     }
 
