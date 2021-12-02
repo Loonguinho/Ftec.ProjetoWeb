@@ -5,6 +5,7 @@ using System.Diagnostics;
 using Newtonsoft.Json;
 using ProjectFacul.Mvc.Models;
 using System.Collections.Generic;
+using System.Data;
 
 namespace ProjectFacul.Controllers
 {
@@ -27,6 +28,22 @@ namespace ProjectFacul.Controllers
             //Consumir o servico que faz a comnsulta da temperatura
             List<DadosGraficoTemperaturaModel> listaDadosTemperatura = new List<DadosGraficoTemperaturaModel>();
 
+            DataTable dt = new DataTable();
+            dt.Columns.Add("Temperatura", System.Type.GetType("System.String"));
+            dt.Columns.Add("Data", System.Type.GetType("System.DateTime"));
+
+            foreach (var item in listaDadosTemperatura)
+            {
+                DataRow dr = dt.NewRow();
+                dr["Temperatura"] = item.Temperatura;
+                dr["Data"] = item.Data;
+            }
+            foreach (DataColumn dc in dt.Columns)
+            {
+                List<DadosGraficoTemperaturaModel> x = new List<DadosGraficoTemperaturaModel>();
+                x = (from DataRow drr in dt.Rows select drr[dc.ColumnName]).ToList();
+                listaDadosTemperatura.Add(x);
+            }
             return Json(listaDadosTemperatura);
         }
 
