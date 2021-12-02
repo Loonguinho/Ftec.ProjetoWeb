@@ -22,7 +22,6 @@ namespace ProjectFacul.Controllers
             return View();
         }
 
-
         public IActionResult RetornarDadosGraficoTemperatura()
         {
             //Consumir o servico que faz a comnsulta da temperatura
