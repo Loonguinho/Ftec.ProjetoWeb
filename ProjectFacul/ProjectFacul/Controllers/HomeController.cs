@@ -22,8 +22,7 @@ namespace ProjectFacul.Controllers
         {
             return View();
         }
-
-        public IActionResult RetornarDadosGraficoTemperatura()
+        public JsonResult RetornarDadosGraficoTemperatura()
         {
             //Consumir o servico que faz a comnsulta da temperatura
             List<DadosGraficoTemperaturaModel> listaDadosTemperatura = new List<DadosGraficoTemperaturaModel>();
@@ -37,6 +36,7 @@ namespace ProjectFacul.Controllers
                 DataRow dr = dt.NewRow();
                 dr["Temperatura"] = item.Temperatura;
                 dr["Data"] = item.Data;
+                dt.Rows.Add(dr);
             }
             foreach (DataColumn dc in dt.Columns)
             {
