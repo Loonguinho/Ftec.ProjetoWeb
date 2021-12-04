@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fi2lPZy638Tlrm+JzAr2mfxMn5XHHR3kxkPU6PVlsDorhLt+4d3zECGn8MPX6MUQ0VvLtObBuQ0WMeg7cwPzNA==",
+  "dgSpecHash": "ADeaD+sPFAWlFBZWtzZjuj6nrM4YLSyJy8IcPH69HFk3VyPCD4vvmAtdyuxpaRRjZnOWbq69jkD90QW/JCDsTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luqueta\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
-    "C:\\Users\\Luqueta\\.nuget\\packages\\jquery\\3.6.0\\jquery.3.6.0.nupkg.sha512",
     "C:\\Users\\Luqueta\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Luqueta\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.12\\microsoft.aspnetcore.authentication.jwtbearer.5.0.12.nupkg.sha512",
     "C:\\Users\\Luqueta\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
