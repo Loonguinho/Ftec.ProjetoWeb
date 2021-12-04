@@ -6,6 +6,8 @@ using Newtonsoft.Json;
 using ProjectFacul.Mvc.Models;
 using System.Collections.Generic;
 using System.Data;
+using ProjectFacul.ClientHttp;
+using System;
 
 namespace ProjectFacul.Controllers
 {
@@ -22,29 +24,49 @@ namespace ProjectFacul.Controllers
         {
             return View();
         }
+        [HttpPost]
         public JsonResult RetornarDadosGraficoTemperatura()
         {
+            List<List<string>> saida = new List<List<string>>();
             //Consumir o servico que faz a comnsulta da temperatura
             List<DadosGraficoTemperaturaModel> listaDadosTemperatura = new List<DadosGraficoTemperaturaModel>();
 
-            DataTable dt = new DataTable();
-            dt.Columns.Add("Temperatura", System.Type.GetType("System.String"));
-            dt.Columns.Add("Data", System.Type.GetType("System.DateTime"));
+            //consumir a api de autenticacao
+            APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
+            try
+            {
+                listaDadosTemperatura = clienteHTTP.Get<List<DadosGraficoTemperaturaModel>>(@"Temperatura");
+                DataTable dt = new DataTable();
+                dt.Columns.Add("Temperatura", System.Type.GetType("System.String"));
+                dt.Columns.Add("Data", System.Type.GetType("System.DateTime"));
 
-            foreach (var item in listaDadosTemperatura)
-            {
-                DataRow dr = dt.NewRow();
-                dr["Temperatura"] = item.Temperatura;
-                dr["Data"] = item.Data;
-                dt.Rows.Add(dr);
+                foreach (var item in listaDadosTemperatura)
+                {
+                    DataRow dr = dt.NewRow();
+                    dr["Temperatura"] = item.Temperatura;
+                    dr["Data"] = item.Data;
+                    dt.Rows.Add(dr);
+                }
+
+
+                List<string> datas = new List<string>();
+                List<string> temperaturas = new List<string>();
+                
+
+                foreach (DataRow row in dt.Rows)
+                {
+                    datas.Add(row["Data"].ToString());
+                    temperaturas.Add(row["Temperatura"].ToString());
+
+                }
+                saida.Add(datas);
+                saida.Add(temperaturas);
+
             }
-            foreach (DataColumn dc in dt.Columns)
+            catch (Exception e)
             {
-                List<DadosGraficoTemperaturaModel> x = new List<DadosGraficoTemperaturaModel>();
-                x = (from DataRow drr in dt.Rows select drr[dc.ColumnName]).ToList();
-                listaDadosTemperatura.Add(x);
             }
-            return Json(listaDadosTemperatura);
+            return Json(saida);
         }
 
         public IActionResult Privacy()

@@ -61,7 +61,14 @@ namespace ProjectFacul.Application
 
             foreach(var fat in fatores)
             {
-                fatoresDTO.Add(FatoresClimaticosAdapter.ParaFatoresClimaticosDTO(fat));
+                fatoresDTO.Add(new FatoresClimaticosDTO()
+                {
+                    Data = fat.Data,
+                    Humidade = fat.Humidade,
+                    Id = fat.Id,
+                    IndicePluviometrico = fat.IndicePluviometrico,
+                    Temperatura = fat.Temperatura
+                });
             }
             return fatoresDTO;
         }
