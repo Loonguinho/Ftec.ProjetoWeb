@@ -1,0 +1,129 @@
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.exe
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.deps.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.runtimeconfig.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.runtimeconfig.dev.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ref\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.AssemblyReference.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.AssemblyInfoInputs.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.AssemblyInfo.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.CoreCompileInputs.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\staticwebassets\ProjectFacul.ProjetoWeb.Api.StaticWebAssets.Manifest.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\staticwebassets\ProjectFacul.ProjetoWeb.Api.StaticWebAssets.xml
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\scopedcss\bundle\ProjectFacul.ProjetoWeb.Api.styles.css
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.CopyComplete
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ref\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.genruntimeconfig.cache
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.exe
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.deps.json
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.runtimeconfig.json
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.runtimeconfig.dev.json
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ref\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.pdb
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.AssemblyInfoInputs.cache
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.AssemblyInfo.cs
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.CoreCompileInputs.cache
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\staticwebassets\ProjectFacul.ProjetoWeb.Api.StaticWebAssets.Manifest.cache
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\staticwebassets\ProjectFacul.ProjetoWeb.Api.StaticWebAssets.xml
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\scopedcss\bundle\ProjectFacul.ProjetoWeb.Api.styles.css
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.RazorTargetAssemblyInfo.cache
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.CopyComplete
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ref\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.pdb
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.genruntimeconfig.cache
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Application.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Application.pdb
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.pdb
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.pdb
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.AssemblyReference.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Application.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Application.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Npgsql.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\varggu\OneDrive - 2020 Spaces\Área de Trabalho\Ftec.ProjetoWeb\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.exe
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.deps.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.runtimeconfig.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.runtimeconfig.dev.json
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ref\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.pdb
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Application.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Application.pdb
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Repository.pdb
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\bin\Debug\net5.0\ProjectFacul.Domain.pdb
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.AssemblyReference.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.AssemblyInfoInputs.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.AssemblyInfo.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.CoreCompileInputs.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\staticwebassets\ProjectFacul.ProjetoWeb.Api.StaticWebAssets.Manifest.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\staticwebassets\ProjectFacul.ProjetoWeb.Api.StaticWebAssets.xml
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\scopedcss\bundle\ProjectFacul.ProjetoWeb.Api.styles.css
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.csproj.CopyComplete
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ref\ProjectFacul.ProjetoWeb.Api.dll
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.pdb
+C:\Users\Luqueta\Desktop\ProjectFacul\ProjectFacul.ProjetoWeb.Api\obj\Debug\net5.0\ProjectFacul.ProjetoWeb.Api.genruntimeconfig.cache
