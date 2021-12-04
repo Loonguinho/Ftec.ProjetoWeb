@@ -1,34 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\temp\\Ftec.ProjetoWeb-main\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {}
+    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {}
   },
   "projects": {
-    "D:\\temp\\Ftec.ProjetoWeb-main\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
+    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\temp\\Ftec.ProjetoWeb-main\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
         "projectName": "ProjectFacul.Domain",
-        "projectPath": "D:\\temp\\Ftec.ProjetoWeb-main\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
-        "packagesPath": "C:\\Users\\menzen\\.nuget\\packages\\",
-        "outputPath": "D:\\temp\\Ftec.ProjetoWeb-main\\ProjectFacul\\ProjectFacul.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
+        "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\menzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://200.175.100.10:90/nuget": {},
-          "http://softbyteserver:90/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

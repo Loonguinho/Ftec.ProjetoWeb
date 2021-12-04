@@ -14,9 +14,6 @@
           "lib/netstandard1.0/Humanizer.dll": {}
         }
       },
-      "jQuery/3.6.0": {
-        "type": "package"
-      },
       "Microsoft.AspNet.WebApi.Client/5.2.7": {
         "type": "package",
         "dependencies": {
@@ -1945,29 +1942,6 @@
         "humanizer.core.2.2.0.nupkg.sha512",
         "humanizer.core.nuspec",
         "lib/netstandard1.0/Humanizer.dll"
-      ]
-    },
-    "jQuery/3.6.0": {
-      "sha512": "sSzCTDWn15waSMjDrP21jjgG1j1pwISLaKiVCClwU4XGAmuZt+FScLkdyRvh9ppoIxAW/tJtJBYei+3CAwFQ7g==",
-      "type": "package",
-      "path": "jquery/3.6.0",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Content/Scripts/jquery-3.6.0-vsdoc.js",
-        "Content/Scripts/jquery-3.6.0.js",
-        "Content/Scripts/jquery-3.6.0.min.js",
-        "Content/Scripts/jquery-3.6.0.min.map",
-        "Content/Scripts/jquery-3.6.0.slim.js",
-        "Content/Scripts/jquery-3.6.0.slim.min.js",
-        "Content/Scripts/jquery-3.6.0.slim.min.map",
-        "Tools/common.ps1",
-        "Tools/install.ps1",
-        "Tools/jquery-3.6.0.intellisense.js",
-        "Tools/uninstall.ps1",
-        "jquery.3.6.0.nupkg.sha512",
-        "jquery.nuspec"
       ]
     },
     "Microsoft.AspNet.WebApi.Client/5.2.7": {
@@ -6616,40 +6590,30 @@
       "Microsoft.AspNet.WebApi.Client >= 5.2.7",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.12",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
-      "Newtonsoft.Json >= 13.0.1",
-      "jQuery >= 3.6.0"
+      "Newtonsoft.Json >= 13.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\menzen\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Luqueta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\temp\\Ftec.ProjetoWeb-main\\ProjectFacul\\ProjectFacul\\ProjectFacul.Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.Mvc.csproj",
       "projectName": "ProjectFacul",
-      "projectPath": "D:\\temp\\Ftec.ProjetoWeb-main\\ProjectFacul\\ProjectFacul\\ProjectFacul.Mvc.csproj",
-      "packagesPath": "C:\\Users\\menzen\\.nuget\\packages\\",
-      "outputPath": "D:\\temp\\Ftec.ProjetoWeb-main\\ProjectFacul\\ProjectFacul\\obj\\",
+      "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.Mvc.csproj",
+      "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\menzen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://200.175.100.10:90/nuget": {},
-        "http://softbyteserver:90/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6683,10 +6647,6 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.1, )"
-          },
-          "jQuery": {
-            "target": "Package",
-            "version": "[3.6.0, )"
           }
         },
         "imports": [
@@ -6707,7 +6667,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
