@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj": {}
+    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
+    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
         "projectName": "ProjectFacul.Domain",
-        "projectPath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
+        "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
         "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj": {
+    "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj",
         "projectName": "ProjectFacul.Repository",
-        "projectPath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj",
+        "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Repository\\ProjectFacul.Repository.csproj",
         "packagesPath": "C:\\Users\\Luqueta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luqueta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
-                "projectPath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj"
+              "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj": {
+                "projectPath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj"
               }
             }
           }

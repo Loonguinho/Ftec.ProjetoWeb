@@ -26,8 +26,6 @@ C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Login\Login.cshtml.g.cs
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Login\password.cshtml.g.cs
-C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Praga\GraficsPraga.cshtml.g.cs
-C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Praga\Index.cshtml.g.cs
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Produto\Formulario.cshtml.g.cs
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Produto\Index.cshtml.g.cs
 C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul\obj\Debug\net5.0\Razor\Views\Senha\RecuperarSenha.cshtml.g.cs

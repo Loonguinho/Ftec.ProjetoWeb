@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "02hx8j/JlCVEweSgpLNEJ2OsnjAEN7/5lA7NTOP4KkcOIi47h4o4RGTjq5zCndglzGDMXMKr9RpUZzWkljnNnQ==",
+  "dgSpecHash": "fi2lPZy638Tlrm+JzAr2mfxMn5XHHR3kxkPU6PVlsDorhLt+4d3zECGn8MPX6MUQ0VvLtObBuQ0WMeg7cwPzNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul\\ProjectFacul.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul\\ProjectFacul.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luqueta\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Luqueta\\.nuget\\packages\\jquery\\3.6.0\\jquery.3.6.0.nupkg.sha512",

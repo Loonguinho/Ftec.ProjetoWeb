@@ -39,13 +39,26 @@ namespace ProjectFacul.Controllers
                 DataTable dt = new DataTable();
                 dt.Columns.Add("Temperatura", System.Type.GetType("System.String"));
                 dt.Columns.Add("Data", System.Type.GetType("System.DateTime"));
-
+            
                 foreach (var item in listaDadosTemperatura)
                 {
                     DataRow dr = dt.NewRow();
                     dr["Temperatura"] = item.Temperatura;
                     dr["Data"] = item.Data;
-                    dt.Rows.Add(dr);
+                    
+                    DateTime datahoje = DateTime.Now;
+                    string dataDia = datahoje.ToShortDateString();
+                    DateTime dataInicio = DateTime.Parse($"{dataDia} 06:00:00");
+                    DateTime dataFinal = DateTime.Parse($"{dataDia} 09:00:00");
+                    
+                    //converter temperatura para celsius
+
+                    if (dataInicio <= item.Data && dataFinal >= item.Data)
+                    {
+                        dt.Rows.Add(dr);
+                    }
+                    
+
                 }
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aV3Dq35oRxhonHgPEvqrQIKrepS1hrjQDozHRZSeYyVrE7pyiBMC977zwIx8xSzCckCV6oMZ6YAUQApNdw5+wg==",
+  "dgSpecHash": "jLHuEOHo3NijY+oaCFB8afkjqMFTfl7ELbadZsqbOlasgxNMetPJpRIbHZoievBx+KjcnZkOJ/zA5wTkkjrwzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luqueta\\Desktop\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Luqueta\\Documents\\Projeto WEB FTEC\\Ftec.ProjetoWeb.GitHub\\ProjectFacul\\ProjectFacul.Domain\\ProjectFacul.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luqueta\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.12\\microsoft.aspnetcore.authentication.jwtbearer.5.0.12.nupkg.sha512",
     "C:\\Users\\Luqueta\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
