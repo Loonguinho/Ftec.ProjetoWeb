@@ -11,12 +11,12 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class HumidadeController : ControllerBase
+    public class UmidadeController : ControllerBase
     {
         private IFatoresClimaticosRepository fatoresClimaticosRepository;
         private FatoresClimaticosApplication fatoresClimaticosApplication;
 
-        public HumidadeController(IConfiguration configuration)
+        public UmidadeController(IConfiguration configuration)
         {
             string conexao = configuration.GetConnectionString("conexao");
             fatoresClimaticosRepository = new FatoresClimaticosRepository(conexao);
@@ -27,11 +27,11 @@ namespace ProjectFacul.ProjetoWeb.Api.Controllers
         public IActionResult Get()
         {
             var fatoresClimaticos = fatoresClimaticosApplication.SelecionarTodos();
-            List<DadosHumidade> fatoresModel = new List<DadosHumidade>();
+            List<DadosUmidade> fatoresModel = new List<DadosUmidade>();
 
             foreach (var fatorDTO in fatoresClimaticos)
             {
-                fatoresModel.Add(new DadosHumidade()
+                fatoresModel.Add(new DadosUmidade()
                 {
                     Humidade = fatorDTO.Humidade,
                     Data = fatorDTO.Data,

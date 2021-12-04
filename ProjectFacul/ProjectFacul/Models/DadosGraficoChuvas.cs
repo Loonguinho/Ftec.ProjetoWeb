@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace ProjectFacul.Mvc.Models
 {
-    public class DadosGraficoTemperaturaModel
+    public class DadosGraficoChuvas
     {
-        public float Temperatura { get; set; }
+        public decimal IndicePluviometrico { get; set; }
         public DateTime Data { get; set; }
     }
 }
