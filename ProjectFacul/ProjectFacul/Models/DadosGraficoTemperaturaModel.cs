@@ -7,7 +7,7 @@ namespace ProjectFacul.Mvc.Models
 {
     public class DadosGraficoTemperaturaModel
     {
-        public float Temperatura { get; set; }
+        public decimal Temperatura { get; set; }
         public DateTime Data { get; set; }
     }
 }

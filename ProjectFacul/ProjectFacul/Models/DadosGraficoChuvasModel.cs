@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ProjectFacul.Mvc.Models
 {
-    public class DadosGraficoChuvas
+    public class DadosGraficoChuvasModel
     {
         public decimal IndicePluviometrico { get; set; }
         public DateTime Data { get; set; }

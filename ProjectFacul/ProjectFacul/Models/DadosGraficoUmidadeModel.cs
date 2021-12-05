@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ProjectFacul.Mvc.Models
 {
-    public class DadosGraficoUmidade
+    public class DadosGraficoUmidadeModel
     {
         public int Humidade { get; set; }
         public DateTime Data { get; set; }

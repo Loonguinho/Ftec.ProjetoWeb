@@ -42,17 +42,20 @@ namespace ProjectFacul.Controllers
 
                 foreach (var item in listaDadosTemperatura)
                 {
-                    DataRow dr = dt.NewRow();
-                    dr["Temperatura"] = item.Temperatura;
-                    dr["Data"] = item.Data;
-
                     DateTime datahoje = DateTime.Now;
                     string dataDia = datahoje.ToShortDateString();
                     DateTime dataInicio = DateTime.Parse($"{dataDia} 12:00:00");
                     DateTime dataFinal = DateTime.Parse($"{dataDia} 18:0:00");
+                    //DateTime dataInicio = DateTime.Parse($"04/12/2021 12:00:00");
+                    //DateTime dataFinal = DateTime.Parse($"04/12/2021 18:0:00");
+                    DataRow dr = dt.NewRow();
 
                     if (dataInicio <= item.Data && dataFinal >= item.Data)
                     {
+                        //decimal temperaturadocaralho = item.Temperatura / 10;
+                        //item.Temperatura = temperaturadocaralho;
+                        dr["Temperatura"] = item.Temperatura;
+                        dr["Data"] = item.Data;
                         dt.Rows.Add(dr);
                     }
                 }
@@ -82,14 +85,14 @@ namespace ProjectFacul.Controllers
         public JsonResult RetornarDadosGraficoHumidade()
         {
             List<List<string>> saida = new List<List<string>>();
-            //Consumir o servico que faz a comnsulta da temperatura
-            List<DadosGraficoUmidade> listaDadosTemperatura = new List<DadosGraficoUmidade>();
+            //Consumir o servico que faz a comnsulta da Humidade
+            List<DadosGraficoUmidadeModel> listaDadosTemperatura = new List<DadosGraficoUmidadeModel>();
 
             //consumir a api de autenticacao
             APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
             try
             {
-                listaDadosTemperatura = clienteHTTP.Get<List<DadosGraficoUmidade>>(@"Umidade");
+                listaDadosTemperatura = clienteHTTP.Get<List<DadosGraficoUmidadeModel>>(@"Umidade");
                 DataTable dt = new DataTable();
                 dt.Columns.Add("Umidade", System.Type.GetType("System.String"));
                 dt.Columns.Add("Data", System.Type.GetType("System.DateTime"));
@@ -133,17 +136,18 @@ namespace ProjectFacul.Controllers
             return Json(saida);
         }
 
-        public JsonResult RetornarDadosGraficoChuvas()
+        public JsonResult RetornarDadosGraficoChuva()
         {
             List<List<string>> saida = new List<List<string>>();
-            //Consumir o servico que faz a comnsulta da temperatura
-            List<DadosGraficoChuvas> listaDadosTemperatura = new List<DadosGraficoChuvas>();
+            //Consumir o servico que faz a comnsulta da Humidade
+            List<DadosGraficoChuvasModel> listaDadosTemperatura = new List<DadosGraficoChuvasModel>();
 
             //consumir a api de autenticacao
             APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
             try
             {
-                listaDadosTemperatura = clienteHTTP.Get<List<DadosGraficoChuvas>>(@"IndicePluviometrico");
+                listaDadosTemperatura = clienteHTTP.Get<List<DadosGraficoChuvasModel>>(@"Pluviometrico");
+                
                 DataTable dt = new DataTable();
                 dt.Columns.Add("IndicePluviometrico", System.Type.GetType("System.String"));
                 dt.Columns.Add("Data", System.Type.GetType("System.DateTime"));
@@ -167,22 +171,22 @@ namespace ProjectFacul.Controllers
 
 
                 List<string> datas = new List<string>();
-                List<string> indicesPluviometricos = new List<string>();
+                List<string> IndicePluviometrico = new List<string>();
 
 
                 foreach (DataRow row in dt.Rows)
                 {
                     datas.Add(row["Data"].ToString());
-                    indicesPluviometricos.Add(row["IndicePluviometrico"].ToString());
+                    IndicePluviometrico.Add(row["IndicePluviometrico"].ToString());
 
                 }
                 saida.Add(datas);
-                saida.Add(indicesPluviometricos);
+                saida.Add(IndicePluviometrico);
 
             }
             catch (Exception e)
             {
-                throw new Exception("Faliceu Chuvas?");
+                throw new Exception("Faliceu chuva?");
             }
             return Json(saida);
         }

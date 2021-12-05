@@ -215,7 +215,7 @@
 
                 var ctx = $("#graficoHumidade").get(0).getContext("2d");
                 var myNewChart = new Chart(ctx, {
-                    type: 'line',
+                    type: 'bar',
                     data: dataT,
                     fill: false,
                     borderWidth: 0.1,
@@ -239,7 +239,7 @@
         //chuvas
         $.ajax({
             type: "POST",
-            url: "/Home/RetornarDadosGraficoChuvas",
+            url: "/Home/RetornarDadosGraficoChuva",
             contentType: "application/json; charset=utf-8",
             dataType: "json",
             success: function (mems) {
@@ -268,7 +268,7 @@
 
                 var ctx = $("#graficoChuva").get(0).getContext("2d");
                 var myNewChart = new Chart(ctx, {
-                    type: 'line',
+                    type: 'bar',
                     data: dataT,
                     fill: false,
                     borderWidth: 0.1,
