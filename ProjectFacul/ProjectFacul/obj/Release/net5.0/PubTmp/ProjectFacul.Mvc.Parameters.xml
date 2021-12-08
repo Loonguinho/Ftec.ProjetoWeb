@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ProjectFaculMvc20211207211231" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Luqueta\\Documents\\Projeto\ WEB\ FTEC\\Ftec\.ProjetoWeb\.GitHub\\ProjectFacul\\ProjectFacul\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
