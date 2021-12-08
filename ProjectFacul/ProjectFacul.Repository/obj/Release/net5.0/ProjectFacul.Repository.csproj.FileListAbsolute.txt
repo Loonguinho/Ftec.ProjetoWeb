@@ -1,0 +1,15 @@
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\bin\Release\net5.0\ProjectFacul.Repository.deps.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\bin\Release\net5.0\ProjectFacul.Repository.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\bin\Release\net5.0\ref\ProjectFacul.Repository.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\bin\Release\net5.0\ProjectFacul.Repository.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\bin\Release\net5.0\ProjectFacul.Domain.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\bin\Release\net5.0\ProjectFacul.Domain.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\obj\Release\net5.0\ProjectFacul.Repository.csproj.AssemblyReference.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\obj\Release\net5.0\ProjectFacul.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\obj\Release\net5.0\ProjectFacul.Repository.AssemblyInfoInputs.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\obj\Release\net5.0\ProjectFacul.Repository.AssemblyInfo.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\obj\Release\net5.0\ProjectFacul.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\obj\Release\net5.0\ProjectFacul.Repository.csproj.CopyComplete
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\obj\Release\net5.0\ProjectFacul.Repository.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\obj\Release\net5.0\ref\ProjectFacul.Repository.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Repository\obj\Release\net5.0\ProjectFacul.Repository.pdb

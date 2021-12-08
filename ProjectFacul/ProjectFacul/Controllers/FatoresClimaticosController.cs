@@ -10,7 +10,7 @@ namespace ProjectFacul.Controllers
         [HttpGet]
         public IActionResult Index(int id)
         { 
-            APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
+            APIHttpClient clienteHTTP = new APIHttpClient("https://projectfaculprojetowebapibackend.azurewebsites.net/api/");
             List<FatoresClimaticosModel> produtos = clienteHTTP.Get<List<FatoresClimaticosModel>>(@"fatoresClimaticos");
             return View(produtos);
         }

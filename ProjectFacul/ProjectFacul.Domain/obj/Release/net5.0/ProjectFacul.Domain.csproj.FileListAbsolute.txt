@@ -1,0 +1,12 @@
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\bin\Release\net5.0\ProjectFacul.Domain.deps.json
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\bin\Release\net5.0\ProjectFacul.Domain.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\bin\Release\net5.0\ref\ProjectFacul.Domain.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\bin\Release\net5.0\ProjectFacul.Domain.pdb
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\obj\Release\net5.0\ProjectFacul.Domain.csproj.AssemblyReference.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\obj\Release\net5.0\ProjectFacul.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\obj\Release\net5.0\ProjectFacul.Domain.AssemblyInfoInputs.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\obj\Release\net5.0\ProjectFacul.Domain.AssemblyInfo.cs
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\obj\Release\net5.0\ProjectFacul.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\obj\Release\net5.0\ProjectFacul.Domain.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\obj\Release\net5.0\ref\ProjectFacul.Domain.dll
+C:\Users\Luqueta\Documents\Projeto WEB FTEC\Ftec.ProjetoWeb.GitHub\ProjectFacul\ProjectFacul.Domain\obj\Release\net5.0\ProjectFacul.Domain.pdb

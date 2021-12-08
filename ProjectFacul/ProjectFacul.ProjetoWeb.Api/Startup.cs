@@ -30,11 +30,11 @@ namespace ProjectFacul.ProjetoWeb.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddSwaggerGen(c =>
+           /* services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProjectFacul.ProjetoWeb.Api", Version = "v1" });
             });
-
+           */
 
             var key = Encoding.ASCII.GetBytes("fedaf7d8863b48e197b9287d492b708e");
             services.AddAuthentication(x =>
@@ -61,8 +61,8 @@ namespace ProjectFacul.ProjetoWeb.Api
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ProjectFacul.ProjetoWeb.Api v1"));
+              //  app.UseSwagger();
+              //  app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ProjectFacul.ProjetoWeb.Api v1"));
             }
 
             app.UseRouting();

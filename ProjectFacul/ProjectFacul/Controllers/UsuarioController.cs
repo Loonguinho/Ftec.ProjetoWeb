@@ -11,7 +11,7 @@ namespace ProjectFacul.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-                APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
+                APIHttpClient clienteHTTP = new APIHttpClient("https://projectfaculprojetowebapibackend.azurewebsites.net/api/");
                 List<UsuarioModel> produtos = clienteHTTP.Get<List<UsuarioModel>>(@"Usuario");
                 return View(produtos);
             }

@@ -32,7 +32,7 @@ namespace ProjectFacul.Controllers
             List<DadosGraficoTemperaturaModel> listaDadosTemperatura = new List<DadosGraficoTemperaturaModel>();
 
             //consumir a api de autenticacao
-            APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
+            APIHttpClient clienteHTTP = new APIHttpClient("https://projectfaculprojetowebapibackend.azurewebsites.net/api//");
             try
             {
                 listaDadosTemperatura = clienteHTTP.Get<List<DadosGraficoTemperaturaModel>>(@"Temperatura");
@@ -89,7 +89,7 @@ namespace ProjectFacul.Controllers
             List<DadosGraficoUmidadeModel> listaDadosTemperatura = new List<DadosGraficoUmidadeModel>();
 
             //consumir a api de autenticacao
-            APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
+            APIHttpClient clienteHTTP = new APIHttpClient("https://projectfaculprojetowebapibackend.azurewebsites.net/api/");
             try
             {
                 listaDadosTemperatura = clienteHTTP.Get<List<DadosGraficoUmidadeModel>>(@"Umidade");
@@ -143,7 +143,7 @@ namespace ProjectFacul.Controllers
             List<DadosGraficoChuvasModel> listaDadosTemperatura = new List<DadosGraficoChuvasModel>();
 
             //consumir a api de autenticacao
-            APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
+            APIHttpClient clienteHTTP = new APIHttpClient("https://projectfaculprojetowebapibackend.azurewebsites.net/api/");
             try
             {
                 listaDadosTemperatura = clienteHTTP.Get<List<DadosGraficoChuvasModel>>(@"Pluviometrico");

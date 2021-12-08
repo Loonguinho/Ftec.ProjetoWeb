@@ -26,7 +26,7 @@ namespace ProjectFacul.Controllers
                 Senha = senha
             };
             //consumir a api de autenticacao
-            APIHttpClient clienteHTTP = new APIHttpClient("http://localhost:48678/api/");
+            APIHttpClient clienteHTTP = new APIHttpClient("https://projectfaculprojetowebapibackend.azurewebsites.net/api/");
             try
             {
                 usu = clienteHTTP.Post<UsuarioModel>(@"Login", usu);
